@@ -16,7 +16,7 @@ Tested Platform:
 
 Steps to follow in setting integration test.
 
- 1. Download ESB WSO2 ESB 4.9.0-BETA-SNAPSHOT by navigating the following the URL: http://svn.wso2.org/repos/wso2/people/malaka/ESB/beta/.
+ 1. Download ESB WSO2 ESB 4.9.0.
 
  2. Deploy relevant patches, if applicable.
 
@@ -42,7 +42,7 @@ Steps to follow in setting integration test.
 
       <messageFormatter contentType="text/html" class="org.wso2.carbon.relay.ExpandingMessageFormatter"/>
 
- 6. Compress modified ESB as wso2esb-4.9.0-BETA-SNAPSHOT.zip and copy that zip file into location "{ESB_CONNECTOR_HOME}/repository/".
+ 6. Compress modified ESB as wso2esb-4.9.0.zip and copy that zip file into location "{123CONTACTFORM_HOME}/repository/".
 
  7. Prerequisites for 123ContactForm Connector Integration Testing
 
